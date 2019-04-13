@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87a943d7-c047-4419-81ca-c20ce99e46c6" name="Default Changelist" comment="" />
+    <list default="true" id="87a943d7-c047-4419-81ca-c20ce99e46c6" name="Default Changelist" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,12 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="e#63#64#0" expanded="true" />
-                <element signature="e#113#114#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="45">
+              <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -75,7 +74,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555190159386" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555190580192" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
@@ -116,10 +115,19 @@
       <option name="presentableId" value="Default" />
       <updated>1555188701253</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1555190155885</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555190155885</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -128,8 +136,8 @@
       <window_info id="Image Layers" order="4" />
       <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32992327" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.49928468" visible="true" weight="0.32992327" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5007153" side_tool="true" weight="0.32992327" />
       <window_info anchor="bottom" id="Messages" order="2" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
@@ -177,15 +185,15 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout-to-restore>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#63#64#0" expanded="true" />
-            <element signature="e#113#114#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="45">
+          <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
         </state>
       </provider>
     </entry>
